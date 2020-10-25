@@ -502,7 +502,7 @@ img{
         font-size: 1.0em;
     }
     section.about {
-        padding: 100px 0px 37px 20px;
+        padding: 100px 0px 100px 20px;
     }
     section.skills{
         padding: 50px 50px;
@@ -517,7 +517,7 @@ img{
     }
     section.contact
     {
-        padding: 50px;
+        padding: 100px 0px 100px 20px;
     }
     .contactinfo h3 {
         margin-top: 9px;
